@@ -1,6 +1,6 @@
 {
   "name": "com.noobygames.guidbasedreference",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "unity": "2021.1",
   "description": "Provides functionality for cross scene unique identifiers",
   "displayName": "Guid Based Reference",
@@ -8,5 +8,5 @@
     "name": "NoobyGames",
     "email": "info@noobygames.de",
     "url": "https://noobygames.de"
-  },
+  }
 }
