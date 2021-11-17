@@ -1,6 +1,6 @@
 {
 	"name": "noobygames.guid-based-reference.samples",
 	"references": [
-        "noobygames.guid-based-reference.runtime",
-    ],
+        "noobygames.guid-based-reference.runtime"
+    ]
 }
