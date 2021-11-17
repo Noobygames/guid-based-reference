@@ -1,0 +1,6 @@
+{
+	"name": "noobygames.guid-based-reference.editor",
+	"references": [
+        "noobygames.guid-based-reference.runtime",
+    ],
+}
