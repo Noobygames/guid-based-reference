@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.noobygames.guid-based-reference": {
+      "version": "file:guid-based-reference",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.13.5",
       "depth": 0,
