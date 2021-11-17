@@ -1,5 +1,6 @@
 ﻿using UnityEditor;
 using UnityEngine;
+using GuidBaseReference;
 
 [CustomEditor(typeof(GuidComponent))]
 public class GuidComponentDrawer : Editor
