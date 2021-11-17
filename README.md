@@ -23,3 +23,7 @@ Load up the LoadFirst scene, and then use the SceneLoader object to load 'LoadSe
 
 You should see the CrossSceneReferencer object find the CrossSceneTarget object, and set both of them to start spinning.
 
+## How to install
+
+Install using Git import through package manager
+https://github.com/Noobygames/guid-based-reference.git?path=/Assets/CrossSceneReference
