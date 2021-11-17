@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.noobygames.guid-based-reference": {
-      "version": "file:guid-based-reference",
+    "noobygames.guidbasedreference": {
+      "version": "file:guidbasedreference",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

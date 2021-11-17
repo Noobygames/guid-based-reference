@@ -26,4 +26,4 @@ You should see the CrossSceneReferencer object find the CrossSceneTarget object,
 ## How to install
 
 Install using Git import through package manager
-https://github.com/Noobygames/guid-based-reference.git?path=/Packages/guid-based-reference
+https://github.com/Noobygames/guid-based-reference.git?path=/Packages/guidbasedreference

@@ -1,0 +1,6 @@
+{
+	"name": "noobygames.guidbasedreference.samples",
+	"references": [
+        "noobygames.guidbasedreference.runtime"
+    ]
+}
