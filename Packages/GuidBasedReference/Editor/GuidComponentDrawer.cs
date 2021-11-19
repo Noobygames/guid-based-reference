@@ -16,5 +16,6 @@ public class GuidComponentDrawer : Editor
        
         // Draw label
         EditorGUILayout.LabelField("Guid:", guidComp.GetGuid().ToString());
+        EditorGUILayout.TextField("Value: ", guidComp.GetGuid().ToString());
     }
 }

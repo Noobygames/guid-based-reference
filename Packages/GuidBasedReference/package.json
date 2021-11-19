@@ -1,6 +1,6 @@
 {
   "name": "com.noobygames.guidbasedreference",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "unity": "2021.1",
   "description": "Provides functionality for cross scene unique identifiers",
   "displayName": "Guid Based Reference",
