@@ -1,6 +1,0 @@
-{
-	"name": "noobygames.guidbasedreference.tests",
-	"references": [
-        "noobygames.guidbasedreference.runtime"
-    ]
-}
